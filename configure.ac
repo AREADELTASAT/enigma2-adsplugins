@@ -1,4 +1,4 @@
-AC_INIT([enigma2-pli-plugins],[0.0.1],[forum@openpli.org])
+AC_INIT([enigma2-ads-plugins],[0.0.1],[forum@openpli.org])
 AM_INIT_AUTOMAKE([foreign])
 AM_PATH_PYTHON()
 AC_SUBST(LIBDIR)
