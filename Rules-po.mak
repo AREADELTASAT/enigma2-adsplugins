@@ -1,4 +1,4 @@
-CATEGORY ?= "PLi"
+CATEGORY ?= "ads"
 
 plugindir = $(libdir)/enigma2/python/Plugins/$(CATEGORY)/$(PLUGIN)
 
